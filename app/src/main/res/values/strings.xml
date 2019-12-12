@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Deviceinfo</string>
+    <string name="name">Name</string>
+    <string name="name_model">Name model</string>
+    <string name="search_menu">Search</string>
+    <string name="settings_menu">Settings</string>
+    <string name="actionbarDisplay">Display</string>
+</resources>
